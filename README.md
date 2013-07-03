@@ -2,7 +2,7 @@
 
 Github Repo: https://github.com/rbjdbkilla/MSepochFixJS/
 
-Revised date: 2012-04-12
+Revised date: 2013-07-03
 
 By: Randy Bonds Jr. [My Site](http://www.rbjdesigns.com/)
 
